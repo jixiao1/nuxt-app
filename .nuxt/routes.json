@@ -1,0 +1,80 @@
+[
+  {
+    "name": "About",
+    "path": "/About",
+    "component": "D:\\\\SZ-2005\\\\node.js\\\\服务端渲染\\\\nuxt-app2\\\\pages\\\\About.vue",
+    "chunkName": "pages/About",
+    "_name": "_770cddb8"
+  },
+  {
+    "name": "Home",
+    "path": "/Home",
+    "component": "D:\\\\SZ-2005\\\\node.js\\\\服务端渲染\\\\nuxt-app2\\\\pages\\\\Home.vue",
+    "chunkName": "pages/Home",
+    "_name": "_4c77fb84"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\SZ-2005\\\\node.js\\\\服务端渲染\\\\nuxt-app2\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_2e0b8898"
+  },
+  {
+    "name": "Mine",
+    "path": "/Mine",
+    "component": "D:\\\\SZ-2005\\\\node.js\\\\服务端渲染\\\\nuxt-app2\\\\pages\\\\Mine.vue",
+    "chunkName": "pages/Mine",
+    "_name": "_182d50f8"
+  },
+  {
+    "path": "/product",
+    "component": "D:\\\\SZ-2005\\\\node.js\\\\服务端渲染\\\\nuxt-app2\\\\pages\\\\product.vue",
+    "chunkName": "pages/product",
+    "children": [
+      {
+        "name": "product",
+        "path": "",
+        "component": "D:\\\\SZ-2005\\\\node.js\\\\服务端渲染\\\\nuxt-app2\\\\pages\\\\product\\\\index.vue",
+        "chunkName": "pages/product/index",
+        "_name": "_83921c70"
+      },
+      {
+        "name": "product-cate",
+        "path": "cate",
+        "component": "D:\\\\SZ-2005\\\\node.js\\\\服务端渲染\\\\nuxt-app2\\\\pages\\\\product\\\\cate.vue",
+        "chunkName": "pages/product/cate",
+        "_name": "_f30e896e"
+      },
+      {
+        "name": "product-list",
+        "path": "list",
+        "component": "D:\\\\SZ-2005\\\\node.js\\\\服务端渲染\\\\nuxt-app2\\\\pages\\\\product\\\\list.vue",
+        "chunkName": "pages/product/list",
+        "_name": "_58989dd0"
+      },
+      {
+        "name": "product-id",
+        "path": ":id",
+        "component": "D:\\\\SZ-2005\\\\node.js\\\\服务端渲染\\\\nuxt-app2\\\\pages\\\\product\\\\_id.vue",
+        "chunkName": "pages/product/_id",
+        "_name": "_2ce6c630"
+      }
+    ],
+    "_name": "_2b07257a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\SZ-2005\\\\node.js\\\\服务端渲染\\\\nuxt-app2\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1f52989d"
+  },
+  {
+    "name": "category-menu",
+    "path": "/:category/menu",
+    "component": "D:\\\\SZ-2005\\\\node.js\\\\服务端渲染\\\\nuxt-app2\\\\pages\\\\_category\\\\menu.vue",
+    "chunkName": "pages/_category/menu",
+    "_name": "_19137c87"
+  }
+]

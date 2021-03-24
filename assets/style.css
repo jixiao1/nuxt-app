@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: #ddd;
+}
+html, body, #__nuxt, #__layout{
+  width: 100%;
+  height: 100%;
+}
+
+.page-enter{
+  transform: scale(0);
+}
+.page-enter-to{
+  transform: scale(1);
+}
+.page-enter-active{
+  transition: 1s;
+}
+
+.page-leave{
+  opacity: 1;
+}
+.page-leave-to{
+  opacity: 0;
+}
+.page-leave-active{
+  transition: 1s;
+}
+
+.product-enter{
+  transform: rotateX(180deg);
+}
+.product-enter-to{
+  transform: rotateX(0deg);
+}
+.product-enter-active{
+  transition: 1s;
+}
